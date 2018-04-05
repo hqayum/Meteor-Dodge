@@ -1,0 +1,3 @@
+sch2sym -intstyle ise -family spartan3e -refsym Synchronizer C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Synchronizer C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Synchronizer C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Synchronizer.sym 

@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\hqayum\Desktop\Lab7_may28_11PM\Lab7_CE100\Top_Level.ncd
+OUTFILE=C:\Users\hqayum\Desktop\Lab7_may28_11PM\Lab7_CE100\Top_Level.bit
+FAMILY=Spartan3E
+PART=xc3s100e-5cp132
+WORKINGDIR=C:\Users\hqayum\Desktop\Lab7_may28_11PM\Lab7_CE100
+LICENSE=WebPack
+USER_INFO=210697467_1777488619_210576444_241

@@ -1,0 +1,14 @@
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may27_11PM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_may27_11PM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.v -lang verilog -prj Lab7_CE100 -o MetSpeed.spl -module MetSpeed -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e MetSpeed.spl C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/MetSpeed.sym 

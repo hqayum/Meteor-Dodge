@@ -1,0 +1,2 @@
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/Diamond_IN.v -lang verilog -prj Lab7_CE100 -o Diamond_IN.spl -module Diamond_IN -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Diamond_IN.spl C:/Users/hqayum/Desktop/Lab7_may29_10PM/Lab7_CE100/Diamond_IN.sym 

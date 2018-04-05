@@ -1,0 +1,56 @@
+add instance and2b1 304 608 R0 -sn=1
+select figure at 777 491 8 -branches -sn=1
+delete selection -sn=1
+select figure at 751 506 8 -branches -sn=1
+delete selection -sn=1
+select figure at 396 518 8 -branches -sn=1
+BeginGroup
+add wire 816 496 784 496 -sn=1
+move instance at 304 608 to 528 592 R0 -keepConn -sn=1
+EndGroup
+move instance at 528 592 to 480 592 R0 -keepConn -sn=1
+select figure at 402 527 8 -branches -sn=1
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+select figure at 704 506 8 -branches -sn=1
+select figure at 800 498 8 -branches -sn=1
+select figure at 735 496 8 -branches -sn=1
+undo
+select figure at 755 506 8 -branches -sn=1
+delete selection -sn=1
+select figure at 797 502 8 -branches -sn=1
+delete selection -sn=1
+select figure at 427 529 8 -branches -sn=1
+BeginGroup
+add wire 816 496 784 496 -sn=1
+move instance at 304 608 to 528 592 R0 -keepConn -sn=1
+EndGroup
+move instance at 528 592 to 416 592 R0 -keepConn -sn=1
+select figure at 184 540 8 -branches -sn=1
+add autowire 416 528 400 528 8 -sn=1
+add autowire 416 464 400 464 8 -sn=1
+add iomarker 400 464 0 Unknown Unknown -sn=1
+select figure at 145 600 8 -branches -sn=1
+undo
+undo
+undo
+select figure at 300 547 8 -branches -toggle -sn=1
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo
+undo

@@ -1,0 +1,7 @@
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sym 
+sch2sym -intstyle ise -family spartan3e -w -refsym Slug_Logic C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sch C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug_Logic.sym 

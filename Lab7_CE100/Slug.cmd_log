@@ -1,0 +1,36 @@
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may23_11PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may24_7PM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Slug.spl C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w Slug.spl C:/Users/hqayum/Desktop/Lab7_May31_3AM/Lab7_CE100/Slug.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_May31_10PM/Lab7_CE100/Slug.v -lang verilog -prj Lab7_CE100 -o Slug.spl -module Slug -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e -w Slug.spl C:/Users/hqayum/Desktop/Lab7_May31_10PM/Lab7_CE100/Slug.sym 

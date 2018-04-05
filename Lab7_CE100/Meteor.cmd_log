@@ -1,0 +1,24 @@
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_4PM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may24_4PM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may24_4PM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Programs/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may24_4PM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may25_5AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may26_2AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may26_2AM/Lab7_CE100/Meteor.sym 
+vhdtdtfi -lib work C:/Users/hqayum/Desktop/Lab7_may26_2AM/Lab7_CE100/Meteor.v -lang verilog -prj Lab7_CE100 -o Meteor.spl -module Meteor -template C:/Xilinx/14.7/ISE_DS/ISE//data/splveri.tft -deleteonerror 
+spl2sym -intstyle ise -family spartan3e Meteor.spl C:/Users/hqayum/Desktop/Lab7_may26_2AM/Lab7_CE100/Meteor.sym 

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<symbol version="7" name="FSM">
+    <symboltype>BLOCK</symboltype>
+    <timestamp>2016-5-31T6:54:20</timestamp>
+    <attr value="FSM" name="VeriModel" />
+    <pin polarity="Input" x="0" y="-608" name="Start" />
+    <pin polarity="Input" x="0" y="-528" name="FourSecs" />
+    <pin polarity="Input" x="0" y="-448" name="Restart" />
+    <pin polarity="Input" x="0" y="-368" name="Collision" />
+    <pin polarity="Input" x="0" y="-288" name="Meteor_TEN" />
+    <pin polarity="Input" x="0" y="-208" name="Match" />
+    <pin polarity="Input" x="0" y="-128" name="Diamond_Gone" />
+    <pin polarity="Input" x="0" y="-48" name="PS(5:0)" />
+    <pin polarity="Output" x="480" y="-608" name="Reset" />
+    <pin polarity="Output" x="480" y="-544" name="Timer_RE" />
+    <pin polarity="Output" x="480" y="-480" name="Score_INC" />
+    <pin polarity="Output" x="480" y="-416" name="Slug_Stop" />
+    <pin polarity="Output" x="480" y="-352" name="F_Slug_Magenta" />
+    <pin polarity="Output" x="480" y="-288" name="Flash" />
+    <pin polarity="Output" x="480" y="-224" name="Victory_Dance" />
+    <pin polarity="Output" x="480" y="-160" name="Center_Red" />
+    <pin polarity="Output" x="480" y="-96" name="Diamond_Start" />
+    <pin polarity="Output" x="480" y="-32" name="NS(5:0)" />
+    <graph>
+        <rect width="352" x="64" y="-640" height="640" />
+        <attrtext style="alignment:BCENTER;fontsize:56;fontname:Arial" attrname="SymbolName" x="240" y="-648" type="symbol" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-608" type="pin Start" />
+        <line x2="0" y1="-608" y2="-608" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-528" type="pin FourSecs" />
+        <line x2="0" y1="-528" y2="-528" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-448" type="pin Restart" />
+        <line x2="0" y1="-448" y2="-448" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-368" type="pin Collision" />
+        <line x2="0" y1="-368" y2="-368" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-288" type="pin Meteor_TEN" />
+        <line x2="0" y1="-288" y2="-288" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-208" type="pin Match" />
+        <line x2="0" y1="-208" y2="-208" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-128" type="pin Diamond_Gone" />
+        <line x2="0" y1="-128" y2="-128" x1="64" />
+        <attrtext style="fontsize:24;fontname:Arial" attrname="PinName" x="72" y="-48" type="pin PS(5:0)" />
+        <rect width="64" x="0" y="-60" height="24" />
+        <line x2="0" y1="-48" y2="-48" x1="64" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-608" type="pin Reset" />
+        <line x2="480" y1="-608" y2="-608" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-544" type="pin Timer_RE" />
+        <line x2="480" y1="-544" y2="-544" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-480" type="pin Score_INC" />
+        <line x2="480" y1="-480" y2="-480" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-416" type="pin Slug_Stop" />
+        <line x2="480" y1="-416" y2="-416" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-352" type="pin F_Slug_Magenta" />
+        <line x2="480" y1="-352" y2="-352" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-288" type="pin Flash" />
+        <line x2="480" y1="-288" y2="-288" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-224" type="pin Victory_Dance" />
+        <line x2="480" y1="-224" y2="-224" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-160" type="pin Center_Red" />
+        <line x2="480" y1="-160" y2="-160" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-96" type="pin Diamond_Start" />
+        <line x2="480" y1="-96" y2="-96" x1="416" />
+        <attrtext style="alignment:RIGHT;fontsize:24;fontname:Arial" attrname="PinName" x="408" y="-32" type="pin NS(5:0)" />
+        <rect width="64" x="416" y="-44" height="24" />
+        <line x2="480" y1="-32" y2="-32" x1="416" />
+    </graph>
+</symbol>

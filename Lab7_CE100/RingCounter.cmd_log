@@ -1,0 +1,2 @@
+sch2sym -intstyle ise -family spartan3e -refsym RingCounter C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/RingCounter.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/RingCounter.sym 
+sch2sym -intstyle ise -family spartan3e -refsym RingCounter C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/RingCounter.sch C:/Users/hqayum/Desktop/Lab7_May30_Almost/Lab7_CE100/RingCounter.sym 
