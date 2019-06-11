@@ -3,3 +3,8 @@ Created a game with the VGA port of the BASYS2 board. The game is a slug (a blue
 
 ###### To watch my YouTube video of the Meteor Dodge game being played, please click on the image below:
 [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/-KCJwjTHU6A/0.jpg)](http://www.youtube.com/watch?v=-KCJwjTHU6A)
+
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=-KCJwjTHU6A" 
+target="_blank"><img src="http://img.youtube.com/vi/-KCJwjTHU6A/0.jpg" 
+alt="Youtube Video demonstrating how to play Meteor Dodge." width="60%" height="50%" border="10" /></a>
